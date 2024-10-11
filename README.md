@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Tushar</h1>
+<h1 align="center">Hi 👋, I'm Tushar Yadav</h1>
 <h3 align="center">A passionate Web developer and Bug Tester from India</h3>
-<img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align ="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raavan-monster&label=Profile%20views&color=0e75b6&style=flat" alt="raavan-monster" /> </p>
 
+- 🔭 I’m currently working on **Ecommerce store**
+
+- 🌱 I’m currently learning **MERN**
+
+- 🤝 I’m looking for help with **Ecommerce store**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Raavan-monster](https://github.com/Raavan-monster)
 
-- 💬 Ask me about **MERN, PHP, HTML and CSS**
+- 💬 Ask me about **Programing Language, Ubuntu, PHP, HTML and CSS**
 
 - 📫 How to reach me **tushar1203yadav@gmail.com**
 
