@@ -47,9 +47,3 @@
 <p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raavan-monster&theme=neon" alt="GitHub Streak"/>
 </p>
-
-
-# 🌟 My GitHub Repositories 🌟
-
-![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Raavan-monster&repo=Ecom&theme=outrun)
-
