@@ -36,14 +36,14 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raavan-monster&layout=compact&theme=neon" align="center" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharyadav03&layout=compact&theme=neon" align="center" alt="Top Languages"/>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Raavan-monster&show_icons=true&theme=neon" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharyadav03&show_icons=true&theme=neon" alt="GitHub Stats"/>
    
 </p>
 
 <!-- Streak Stats -->
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raavan-monster&theme=neon" alt="GitHub Streak"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharyadav03&theme=neon" alt="GitHub Streak"/>
 </p>
