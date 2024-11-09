@@ -43,5 +43,5 @@
 </p>
 <!-- Streak Stats -->
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharyadav03&theme=neon" alt="GitHub Streak"/>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=tusharyadav03)](https://git.io/streak-stats)
 </p>
