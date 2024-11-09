@@ -43,5 +43,5 @@
 </p>
 <!-- Streak Stats -->
 <p>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=tusharyadav03)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tusharyadav03&theme=neon&card_width=493" alt="GitHub Streak" /></a>
 </p>
