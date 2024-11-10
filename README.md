@@ -1,6 +1,8 @@
 ![Header GIF](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
-<h1 align="center">Hi 👋, I'm Tushar Yadav</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar+Yadav!;" />
+</h1>
 <h3 align="center">A passionate Web developer and Bug Tester from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13c2d163-e876-4ac3-8b80-763534aeac92/dfhe6nt-8a5f142e-52e8-4e62-a1bd-d491b88b061f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzYzJkMTYzLWU4NzYtNGFjMy04YjgwLTc2MzUzNGFlYWM5MlwvZGZoZTZudC04YTVmMTQyZS01MmU4LTRlNjItYTFiZC1kNDkxYjg4YjA2MWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ajuOTvtACVjqKhLvTcdv6xHfyVB0fYUhLK5SRmnLmjU">
 
@@ -45,3 +47,9 @@
 <p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tusharyadav03&theme=neon&card_width=493" alt="GitHub Streak" /></a>
 </p>
+
+
+##
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+for+visting;Bye+✌️+😁;" />
+</h1>
