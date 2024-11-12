@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m looking for help with **Ecommerce store**
+- 🤝 I’m looking for help with **Thread Clone**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tusharyadav03](https://github.com/tusharyadav03)
 
