@@ -16,7 +16,7 @@ jobs:
       
       # Generate the snake SVG
       - name: Generate Snake SVG
-        uses: tusharyadav03/snk/svg-only@v3
+        uses: tusharyadav03/snk@main
         with:
           github_user_name: tusharyadav03
           outputs:
