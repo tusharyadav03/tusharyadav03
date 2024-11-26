@@ -51,6 +51,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tusharyadav03&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tusharyadav03/tusharyadav03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusharyadav03/tusharyadav03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tusharyadav03/tusharyadav03/output/github-snake.svg" />
+</picture>
+
 ##
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+for+visiting;Bye+✌️😁;" />
