@@ -38,16 +38,18 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharyadav03&layout=compact&theme=neon" align="center" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharyadav03&layout=compact&theme=ocean_dark" align="center" alt="Top Languages"/>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharyadav03&show_icons=true&theme=neon" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharyadav03&show_icons=true&theme=ocean_dark" alt="GitHub Stats"/>
 </p>
 <!-- Streak Stats -->
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tusharyadav03&theme=neon&card_width=493" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tusharyadav03&theme=ocean_dark&card_width=493" alt="GitHub Streak" /></a>
 </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tusharyadav03&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
 
 ##
 <h1 align="center">
