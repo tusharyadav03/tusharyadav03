@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar+Yadav!;" />
 </h1>
 <h3 align="center">A passionate Web developer and Bug Tester from India</h3>
-<img align ="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13c2d163-e876-4ac3-8b80-763534aeac92/dfhe6nt-8a5f142e-52e8-4e62-a1bd-d491b88b061f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzYzJkMTYzLWU4NzYtNGFjMy04YjgwLTc2MzUzNGFlYWM5MlwvZGZoZTZudC04YTVmMTQyZS01MmU4LTRlNjItYTFiZC1kNDkxYjg4YjA2MWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ajuOTvtACVjqKhLvTcdv6xHfyVB0fYUhLK5SRmnLmjU">
+<img align ="right" alt="Coding" width="450" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13c2d163-e876-4ac3-8b80-763534aeac92/dfhe6nt-8a5f142e-52e8-4e62-a1bd-d491b88b061f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzYzJkMTYzLWU4NzYtNGFjMy04YjgwLTc2MzUzNGFlYWM5MlwvZGZoZTZudC04YTVmMTQyZS01MmU4LTRlNjItYTFiZC1kNDkxYjg4YjA2MWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ajuOTvtACVjqKhLvTcdv6xHfyVB0fYUhLK5SRmnLmjU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharyadav03&label=Profile%20views&color=0e75b6&style=flat" alt="tusharyadav03" /> </p>
 
