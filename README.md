@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Thread Clone**
 
-- 🌱 I’m currently learning **MERN & Flutter**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 🤝 I’m looking for help with **Thread Clone**
 
