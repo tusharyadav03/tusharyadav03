@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharyadav03&label=Profile%20views&color=0e75b6&style=flat" alt="tusharyadav03" /> </p>
 
-- 🔭 I’m currently working on **Thread Clone**
+- 🔭 **Work on Hold** 😎
 
 - 🌱 I’m currently learning **Cybersecurity**
 
